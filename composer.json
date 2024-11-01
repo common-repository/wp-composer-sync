@@ -1,0 +1,18 @@
+{
+    "name": "harmonic/wp-composer-sync",
+    "description": "Synchronise plugin updates and installations done in wp-admin with a composer.json file",
+    "keywords": ["wordpress", "plugin", "roots"],
+    "homepage": "https://harmonic.com.au",
+    "license": "MIT",
+    "authors": [
+      {
+        "name": "Craig Harman",
+        "email": "craig@harmonic.com.au",
+        "homepage": "https://harmonic.com.au"
+      }
+    ],
+    "type": "wordpress-plugin",
+    "require": {
+      "php": ">=7.0.0"
+    }
+  }
